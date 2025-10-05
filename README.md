@@ -1,4 +1,6 @@
-<head><meta name="google-site-verification" content="rk6R39vzYN5DGPcE-uOxRuMzzbKR3ziRJZKARy4Cn60" />
+<head>
+  <meta name="google-site-verification" content="rk6R39vzYN5DGPcE-uOxRuMzzbKR3ziRJZKARy4Cn60" />
+  <meta name="google-site-verification" content="rk6R39vzYN5DGPcE-uOxRuMzzbKR3ziRJZKARy4Cn60" />
 </head>
 <h1 align="center">🚀 Auto-Bewerber</h1>
 
