@@ -47,7 +47,7 @@
 ### 📥 Download & Install (Windows)
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/Autobewerber/releases/download/v1.0/AutoBewerber-Setup.exe">
+  <a href="https://github.com/medaguili/Auto-bewerber/raw/refs/heads/master/Auto-Bewerber-Setup.rar?download=">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Setup-AutoBewerber-brightgreen?style=for-the-badge" alt="Download AutoBewerber"/>
   </a>
 </p>
